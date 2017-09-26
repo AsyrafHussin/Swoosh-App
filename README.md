@@ -1,8 +1,7 @@
 # Swoosh-App
 Mockup app using swift 4
 
-## Demo
-
+## Screenshots
 <div align="center">
    <img src="welcome.png" width="300" />
 </div>
